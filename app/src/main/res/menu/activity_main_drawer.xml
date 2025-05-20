@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Inicio" />
+
+        <item
+            android:id="@+id/nav_cambiar_nombre"
+            android:icon="@drawable/edit"
+            android:title="Cambiar nombre" />
+
+        <item
+            android:id="@+id/nav_cambiar_contrasena"
+            android:icon="@drawable/key2"
+            android:title="Cambiar contraseña" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Cerrar sesión" />
+    </group>
+</menu>

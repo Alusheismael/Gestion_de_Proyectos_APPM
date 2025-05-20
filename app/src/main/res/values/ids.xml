@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_nuevo" type="id"/>
+    <item name="fab_modificar" type="id"/>
+    <item name="fab_eliminar" type="id"/>
+</resources>
